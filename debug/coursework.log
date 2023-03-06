@@ -1,0 +1,10 @@
+﻿  olcPixelGameEngine.cpp
+C:\Users\TanLi\Desktop\allTesting\coursework\olcPixelGameEngine.h(2982,121): warning C4100: 'depth': unreferenced formal parameter
+C:\Users\TanLi\Desktop\allTesting\coursework\olcPixelGameEngine.h(4038,39): warning C4100: 'fElapsedTime': unreferenced formal parameter
+C:\Users\TanLi\Desktop\allTesting\coursework\olcPixelGameEngine.h(4039,37): warning C4100: 'fElapsedTime': unreferenced formal parameter
+C:\Users\TanLi\Desktop\allTesting\coursework\olcPixelGameEngine.h(4244,59): warning C4100: 'bFullScreen': unreferenced formal parameter
+C:\Users\TanLi\Desktop\allTesting\coursework\olcPixelGameEngine.h(4527,29): warning C4100: 'id': unreferenced formal parameter
+C:\Users\TanLi\Desktop\allTesting\coursework\olcPixelGameEngine.h(5209,69): warning C4100: 'sImageFile': unreferenced formal parameter
+C:\Users\TanLi\Desktop\allTesting\coursework\olcPixelGameEngine.h(5209,45): warning C4100: 'spr': unreferenced formal parameter
+C:\Users\TanLi\Desktop\allTesting\coursework\olcPixelGameEngine.h(5563,15): warning C4189: 'len': local variable is initialized but not referenced
+  coursework.vcxproj -> C:\Users\TanLi\Desktop\allTesting\coursework\debug\coursework.exe
